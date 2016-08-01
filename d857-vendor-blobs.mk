@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d857/proprietary/lib/libvss_resim_core.so:system/lib/libvss_resim_core.so \
     vendor/lge/d857/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/d857/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/lge/d857/proprietary/etc/sensors/sensor_def_variable.conf:system/etc/sensors/sensor_def_variable.conf \
     vendor/lge/d857/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/lge/d857/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/lge/d857/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
